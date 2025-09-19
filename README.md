@@ -4,7 +4,7 @@ Discuss is a simple Question & Answer forum web application where users can sign
 
 ---
 
-## 📌 Features
+##  Features
 - User Authentication (Signup, Login, Logout)
 - Ask a Question
 - Answer a Question
@@ -16,10 +16,12 @@ Discuss is a simple Question & Answer forum web application where users can sign
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: PHP (Core PHP)
 - **Database**: MySQL
 - **Others**: JavaScript (basic validation)
 
 ---
+## Live Demo
+Click here to view the Project -> https://opencharcha.free.nf/
